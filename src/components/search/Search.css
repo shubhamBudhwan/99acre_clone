@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.searchcontainer {
+  margin: 0 auto;
+  width: 60%;
+  background-color: #f4f5f7;
+  color: black;
+  border-radius: 10px;
+}
+.types {
+  display: flex;
+  justify-content: space-around;
+}
+.typeoption {
+  padding: 1em;
+}
+.searchcontainerline {
+  display: flex;
+  justify-content: space-around;
+  padding: 1em;
+  border-top: 2px solid gray;
+}
+input {
+  width: 40em;
+  height: 2em;
+}
+.searchButton {
+  background-color: #006ac2;
+  border-radius: 5px;
+  color: white;
+  width: 80px;
+  height: 30px;
+}

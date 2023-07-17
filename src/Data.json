@@ -1,0 +1,42 @@
+[
+  {
+    "logo": "https://mediacdn.99acres.com/media1/20394/18/407898138O-1676634955551.jpg",
+    "name": "Sundarvan",
+    "flat": "1, 2, 3, 4 BHK Apartment in Okhla, South Delhi",
+    "nearby": "Okhla Estate Marg",
+    "price": 3.37,
+    "id": 1
+  },
+  {
+    "logo": "https://mediacdn.99acres.com/media1/17855/2/357102858M-1650955850807.jpg",
+    "name": "Primary Residency",
+    "flat": "1, 2, 3, 4 BHK Apartment in Okhla, South Delhi",
+    "nearby": "Okhla Estate Marg",
+    "price": 3.24,
+    "id": 2
+  },
+  {
+    "logo": "https://newprojects.99acres.com/projects/unknown/united_apartments/images/26256_1_med.jpg",
+    "name": "Godrej Prima",
+    "flat": "1, 2, 3, 4 BHK Apartment in Okhla, South Delhi",
+    "nearby": "Okhla Estate Marg",
+    "price": 2.34,
+    "id": 3
+  },
+  {
+    "logo": "https://mediacdn.99acres.com/media1/21530/15/430615634M-1688022704561.jpg",
+    "name": "Supreme Regency",
+    "flat": "1, 2, 3, 4 BHK Apartment in Okhla, South Delhi",
+    "nearby": "Okhla Estate Marg",
+    "price": 4.5,
+    "id": 4
+  },
+  {
+    "logo": "https://mediacdn.99acres.com/media1/21536/18/430738382M-1688050844780.jpg",
+    "name": "Resident Prime",
+    "flat": "1, 2, 3, 4 BHK Apartment in Okhla, South Delhi",
+    "nearby": "Okhla Estate Marg",
+    "price": 5.0,
+    "id": 5
+  }
+]
