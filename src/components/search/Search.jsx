@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./Search.css";
+import { IoIosArrowDown } from "react-icons/io";
 
 export default function Search(props) {
   const [input, setInput] = useState("");
@@ -20,7 +21,10 @@ export default function Search(props) {
           <div className="typeoption">Projects</div>
         </div>
         <div className="searchcontainerline">
-          <span className="box1">All Residential</span>
+          <span className="box1">
+            All Residential
+            <IoIosArrowDown />
+          </span>
           <span className="search">
             <input
               type="text"
